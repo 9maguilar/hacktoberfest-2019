@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Marisabel Aguilar](https://github.com/9maguilar)
+- Place: Hilliard, Ohio
+- Bio: High School Senior, Learner
+- GitHub: [9maguilar](https://github.com/9maguilar)
